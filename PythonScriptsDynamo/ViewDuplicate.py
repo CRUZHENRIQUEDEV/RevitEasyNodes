@@ -2,7 +2,7 @@
 
 #Duplicate, views
 
-#DUPLICA UMA VISTA EXISTENTE E RENOMEIA
+#DUPLICA UMA VISTA EXISTENTE E RENOMEIA de acordo com os nomes fornecidos nos inputs
 
 #Views = IN[0]
 #Names = IN[1]
