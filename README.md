@@ -8,10 +8,10 @@ Execute os scripts diretamente no Dynamo para automatizar tarefas específicas n
 Conteúdo(Talvez tenha mais coisas que isso, nem sempre eu atualizo o readme)
 
 
-   - GeometryDifference: Retorna uma geometria que é a diferença entre duas intersecções  https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/Element.GeometryDifference.py
-   - Get.IndexTrue: Retorna os valores que são verdadeiros https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/Get.IndexTrue.py
-   - ListClean: Limpa a lista retirando valores nulos ou vazios   https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/ListClean.py
-   - ViewDuplicate: Duplica uma vista existente e renomeia https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/ViewDuplicate.py
+   - GeometryDifference: Retorna uma geometria que é a diferença entre duas intersecções         https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/Element.GeometryDifference.py
+   - Get.IndexTrue: Retorna os valores que são verdadeiros                                       https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/Get.IndexTrue.py
+   - ListClean: Limpa a lista retirando valores nulos ou vazios                                  https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/ListClean.py
+   - ViewDuplicate: Duplica uma vista existente e renomeia                                       https://github.com/CRUZHENRIQUEDEV/RevitEasyNodes/blob/master/PythonScriptsDynamo/ViewDuplicate.py
 
 Contribuição
 Se você encontrar problemas, tiver ideias para melhorias ou quiser contribuir com seus próprios scripts, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request". Sua contribuição é bem-vinda!
